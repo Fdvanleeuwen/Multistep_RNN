@@ -1,0 +1,2 @@
+There are two files, one containg the data generating mechanism. 
+The second one contains a ecnoder deconder LSTM for prediciton.
